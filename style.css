@@ -1,0 +1,24 @@
+@charset "UTF-8"
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+*{
+    font-family: 'Raleway', sans-serif;
+    color: #d9d9d9;
+}
+
+body {
+    background-image: url('pexels-martin-péchy-1028223.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+textarea {
+    background: none;
+    text-align:left
+}
+
+ul{
+    list-style:inside;
+}
